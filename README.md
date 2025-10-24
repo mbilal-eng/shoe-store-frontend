@@ -1,3 +1,15 @@
+# Shoe Store Frontend
+
+A modern e-commerce shoe store built with Next.js, featuring a responsive design and smooth user experience.
+
+## Live Preview
+
+🌐 **[View Live Demo](https://shoe-store-frontend.vercel.app/)**
+
+![Shoe Store Frontend](shoe-store-frontend.vercel.app_.png)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
